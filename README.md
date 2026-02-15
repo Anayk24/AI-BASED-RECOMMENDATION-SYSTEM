@@ -46,6 +46,7 @@ Command Line Interface
 Recommender.java  → Contains user rating data and recommendation logic
 
 Sample Output:Recommended movie for Anay: Titanic
+<img width="1902" height="1018" alt="Image" src="https://github.com/user-attachments/assets/b694c5c4-b87c-4c65-b276-1249317a7009" />
 
 
 # Learning Outcome
